@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Chat with AI version of me here https://www.quinortiz.com/
+
 Wokring on https://www.fluentdiary.com/
 
 
