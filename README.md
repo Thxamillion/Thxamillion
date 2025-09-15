@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Chat with AI version of me here https://www.quinortiz.com/
+Wokring on https://www.fluentdiary.com/
+
+
 <!--
 **Thxamillion/Thxamillion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
