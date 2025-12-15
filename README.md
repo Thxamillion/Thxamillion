@@ -2,7 +2,7 @@
 
 Chat with AI version of me here https://www.quinortiz.com/
 
-Working on https://www.fluentdiary.com/
+ Try out https://www.fluentdiary.com/
 
 
 <!--
